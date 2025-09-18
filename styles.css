@@ -1071,11 +1071,13 @@ h4 {
   .content-block-l {
     flex-direction: column;
     gap: 1.5rem;
+    width: 100%;
   }
 
   .content-block-r {
     flex-direction: column;
     gap: 1.5rem;
+    width: 100%;
   }
 
   .text-content {
